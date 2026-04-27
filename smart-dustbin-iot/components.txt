@@ -1,0 +1,12 @@
+Arduino Uno - 1
+ESP32 - 1
+Ultrasonic Sensor (HC-SR04) - 2
+Servo Motor - 1
+L298N Motor Driver - 1
+DC Motors - 2
+IR Sensor - 1
+Switch - 1
+Battery - 2
+Jumper Wires
+Robotic Chassis (Cart)
+Power Bank
